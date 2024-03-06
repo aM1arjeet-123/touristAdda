@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/touristAdda/static/css/main.4f504306.css",
+    "main.js": "/touristAdda/static/js/main.0e368f56.js",
+    "index.html": "/touristAdda/index.html",
+    "main.4f504306.css.map": "/touristAdda/static/css/main.4f504306.css.map",
+    "main.0e368f56.js.map": "/touristAdda/static/js/main.0e368f56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f504306.css",
+    "static/js/main.0e368f56.js"
+  ]
+}
